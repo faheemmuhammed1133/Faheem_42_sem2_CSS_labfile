@@ -1,4 +1,4 @@
-# Sem2_HTML_labfile
+# Sem2_CSS_labfile
 
 # Muhammed Faheem
 # Roll No : 42
