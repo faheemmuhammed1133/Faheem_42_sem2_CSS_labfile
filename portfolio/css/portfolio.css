@@ -103,6 +103,10 @@ img {
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
 }
+.skills__description {
+  flex: 1; /* Take up available space */
+  margin-right: 20px; /* Adjust spacing between the two sections */
+}
 
 .l-header {
   width: 100%;
